@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleMoPubNativeAd</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_image_description">Main Image</string>
+    <string name="icon_image_description">Icon Image</string>
+
+    <string name="show_button_text">Show native ad</string>
+</resources>
