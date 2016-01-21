@@ -1,2 +1,1 @@
-sample-mopub-native-ad
-======================
+Example application using MoPub native ads
